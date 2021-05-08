@@ -233,7 +233,7 @@ public class DataCsvService {
 
 效果：
 
-![image-20210508150035742](D:\spider_workspace\springboot-data-csv-compression\docs\images\image-20210508150035742.png)
+![image-20210508150035742](https://raw.githubusercontent.com/lqnasa/springboot-data-csv-compression/master/docs/images/image-20210508150035742.png)
 
 
 
