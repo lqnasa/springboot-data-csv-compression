@@ -243,6 +243,7 @@ public class DataCsvService {
 
 2、压缩效率肯定跟数据中相同的字符相关。相同内容越多，压缩比越大。且这里才能用最佳压缩模式。以时间换压缩比率。
 
-项目源码：
+项目源码：https://github.com/lqnasa/springboot-data-csv-compression
 
+参考：
 https://github.com/FasterXML/jackson-dataformats-text
