@@ -4,13 +4,9 @@ import com.coder.lee.data.dto.PersonDTO;
 import com.coder.lee.data.enums.SexEnum;
 import com.coder.lee.data.util.CsvUtil;
 import com.coder.lee.data.util.ZipUtil;
-import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonValue;
 import com.fasterxml.jackson.dataformat.csv.CsvSchema;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.boot.CommandLineRunner;
-import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
